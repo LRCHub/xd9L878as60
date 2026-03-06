@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "三文銭",
+  "base_artist": "Moroha",
+  "createdAt": "2026-03-06T18:20:30.995613Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "三文銭",
+      "artist": "MOROHA",
+      "has_synced": false,
+      "path": "select/pl_01_三文銭_MOROHA.txt"
+    }
+  ]
+}
